@@ -1,4 +1,4 @@
-# kidney_disease_practice
+# Kidney disease dataset practice
 ### Predict Chronic Kidney Disease
 
 *Dataset used from Kaggle: https://www.kaggle.com/mansoordaku/ckdisease*
